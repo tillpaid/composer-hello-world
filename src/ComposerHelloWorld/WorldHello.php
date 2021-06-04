@@ -6,6 +6,6 @@ class WorldHello
 {
 	public function run()
 	{
-		echo "World hello\n";
+		echo "World hello!\n";
 	}
 }
