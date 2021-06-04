@@ -1,0 +1,16 @@
+{
+	"name": "tillpaid/composer-hello-world",
+	"description": "Test hello world package",
+	"authors": [
+		{
+			"name": "Alexandr Maiboroda",
+			"email": "mtillpaid@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"psr-4": {
+			"ComposerHelloWorld\\": "src/ComposerHelloWorld"
+		}
+	}
+}
